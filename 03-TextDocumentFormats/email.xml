@@ -1,0 +1,6 @@
+<email>
+  <sender>Adam@university.com</sender>
+  <recepient>Robert@university.com</recepient>
+  <subject>New cars</subject>
+  <messagebody>Hello</messagebody/>
+<email>
