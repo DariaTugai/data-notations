@@ -111,8 +111,8 @@ stalj@uek.krakow.pl
     to advance our knowledge in fields like biology, physics, and medicine.
     The collaboration between countries on this project demonstrates
     how space exploration can unite people across borders.
-
-    The Future of Space Exploration
+The Future of Space Exploration
+    
 
     The future of space exploration is filled with possibilities.
     With the rapid advancement of technology, missions to the Moon, Mars,
