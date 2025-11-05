@@ -1,0 +1,41 @@
+thead {
+    background-color: rgb(10, 76, 10);
+    color: white;
+
+}
+
+td,
+th {
+    padding: 9px
+}
+
+table {
+    border-collapse: collapse;
+    border: solid;
+    border: 2px rgba(0, 0, 0, 0.475);
+    table-layout: fixed;
+    width: 100%
+}
+
+th.land,
+td.land {
+    width: 25%;
+}
+
+th.sign,
+td.sign {
+    width: 40%;
+}
+
+th {
+    color: white;
+    background-color: rgb(10, 76, 10);
+}
+
+tr {
+    color: black;
+}
+
+tr:hover {
+    background-color: rgb(215, 249, 230);
+}

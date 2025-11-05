@@ -1,0 +1,12 @@
+h2 {
+    color: blue;
+    padding: 10px;
+    border: 20px solid black;
+    margin: 50px;
+
+}
+ul {
+    color: red;
+    padding: 30px solid gray;
+    border: 10px dashed green;
+}
