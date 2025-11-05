@@ -5,3 +5,30 @@ div {
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+input.submit {
+    background-color: rgb(112, 186, 239);
+    color: rgb(182, 208, 244);
+    width: 100%;
+    padding: 12px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    fobt-weight: bold;
+    font-family: cursive;
+}
+
+div {
+    border: 2px solid black;
+    width: 100%;
+}
+
+input {
+    width: 100%;
+}
+
+div .d {
+    width: 100%;
+}
